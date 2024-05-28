@@ -8,5 +8,4 @@ def cuadrados(lista):
     return listaCuadrados
 
 
-
 print(cuadrados([1,2,3,4,5]))
